@@ -1,0 +1,10 @@
+git init
+git status
+git add 
+git restore
+git commit -m ""
+git remote add origin https://github.com/adeenshafaqat16/GIT-FOR-DEVOPS.git
+git remote -v
+git pust origin master
+git push origin master
+history
